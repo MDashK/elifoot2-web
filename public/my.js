@@ -3,7 +3,7 @@ const user = urlParams.get('user')
 const IDB_KEY = `game.jsdos.${user}`
 
 async function myinit(elem) {
-  let url = "elifoot2.jsdos"
+  let url = "Elifoot_II_v1.21.jsdos"
   window.cache = await emulators.cache()
 
   try {
