@@ -1,25 +1,19 @@
-# Elifoot II Web
-
-The famous 90's game running on the browser
+# Elifoot II v1.21 Web
 
 ![InitImage](./elifoot2-init.png)
 
-### Thanks to
+
+## Autosave
+
+Usar  ```alt+f1 -> enter -> enter``` para fazer save na indexedDb.
+
+
+### Agradecimentos
 
 - Dosbox
 - Emscripten
 - js-dos
+- 
+## Source Original
 
-## Auto save
-
-The keystrokes  ```alt+f1 -> return -> return``` triggers a save to indexedDb.
-
-### Backend
-
-A Node backend is only necessary for persistence across browsers.
-
-## Demo
-
-https://rockpi.rodrigolop.es/elifoot2 
-
-
+https://github.com/rodvlopes/elifoot2-web
