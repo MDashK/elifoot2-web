@@ -3,6 +3,7 @@
 ![InitImage](./elifoot2-init.png)
 
 
+
 ## Como gravar
 
 Para gravar o jogo, tem de se usar a combinação dentro do jogo:
@@ -10,6 +11,7 @@ Para gravar o jogo, tem de se usar a combinação dentro do jogo:
 ```alt+f1 -> enter -> enter```
 
 depois, carregar no icon de disquete no topo esquerdo para proceder à gravação.
+
 
 
 ## Combinações de teclas
@@ -32,11 +34,13 @@ Isto irá activar o layer de touch. Com esta layer activa:
 Para usar a função de TREINADORES do jogo, deve-se utilizar o botão touch da combinação em questão.
 
 
+
 ### Agradecimentos
 
 - Dosbox
 - Emscripten
 - js-dos
+
 
 
 ## Source Original
